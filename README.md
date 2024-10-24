@@ -1,0 +1,1 @@
+# Web API Rest with .NET Core on the backend and Angular frontend.
